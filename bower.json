@@ -1,0 +1,23 @@
+{
+  "name": "jquery-adminlte-remember-box-state",
+  "homepage": "https://github.com/AXN-Informatique/jquery-adminlte-remember-box-state",
+  "authors": [
+    "AXN Informatique"
+  ],
+  "description": "jQuery plugin to remember the state (open/closed) of the boxes in AdminLTE",
+  "main": "jquery.adminlte-remember-box-state.js",
+  "keywords": [
+    "jQuery",
+    "jquery-plugin",
+    "admin-lte",
+    "box"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
