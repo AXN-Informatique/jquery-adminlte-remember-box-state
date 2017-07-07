@@ -5,7 +5,7 @@
 
         if (this.length > 1) {
             this.each(function() {
-                $(this).rememberBoxState();
+                $(this).adminlteRememberBoxState();
             });
             return this;
         }
