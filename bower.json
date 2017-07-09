@@ -13,6 +13,9 @@
     "box"
   ],
   "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.2.0"
+  },
   "ignore": [
     "**/.*",
     "node_modules",
