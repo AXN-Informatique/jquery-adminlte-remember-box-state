@@ -1,7 +1,7 @@
 {
   "name": "jquery-adminlte-remember-box-state",
   "description": "jQuery plugin to remember the state (open/closed) of the boxes in AdminLTE",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "jquery.adminlte-remember-box-state.js",
   "dependencies": {
     "jquery": "^3.2"
